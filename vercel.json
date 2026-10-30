@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/inicio", "destination": "/", "permanent": true },
+    { "source": "/inicio/:path*", "destination": "/", "permanent": true }
+  ]
+}
