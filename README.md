@@ -1,6 +1,6 @@
 # Anillos de Graduación JORVIC
 
-Sitio estático de anillosgraduacionjorvic.com. Sin build: Vercel sirve los archivos tal cual.
+Sitio estático de anillosjorvic.com. Sin build: Vercel sirve los archivos tal cual.
 
 - `index.html` — la página completa (estilos y script incluidos)
 - `assets/logo-blanco.png` — logo blanco para fondos verdes
@@ -9,4 +9,4 @@ Sitio estático de anillosgraduacionjorvic.com. Sin build: Vercel sirve los arch
 
 ## Vercel
 New Project → importar este repo → Framework Preset: **Other** → sin build command → Deploy.
-Luego en Settings → Domains agrega `anillosgraduacionjorvic.com` y `www.anillosgraduacionjorvic.com`.
+Luego en Settings → Domains agrega `anillosjorvic.com` y `www.anillosjorvic.com`.
